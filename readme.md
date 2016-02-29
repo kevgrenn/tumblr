@@ -1,3 +1,6 @@
+8 hours
+
+
 - Tapping on Home, Search, Account, or Trending should show the respective screen and highlight the tab bar button.
 - Compose button should modally present the compose screen.
 - Optional: Compose screen is faded in while the buttons animate in.
@@ -5,5 +8,5 @@
 - Optional: Discover bubble should bob up and down unless the SearchViewController is tapped.
 - Loading indicator when switching to search view
 
-![alt text](https://raw.githubusercontent.com/kevgrenn/Tumblr/master/Tumblr_Walkthrough.gif "Walkthrough")
+![alt text](https://raw.githubusercontent.com/kevgrenn/tumblr/master/Tumblr_Walkthrough.gif "Walkthrough")
 
